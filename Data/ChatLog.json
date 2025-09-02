@@ -1,0 +1,138 @@
+[
+    {
+        "role": "user",
+        "content": "Hello jarvis how are you?\""
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking."
+    },
+    {
+        "role": "user",
+        "content": "Why can't you speak?\""
+    },
+    {
+        "role": "assistant",
+        "content": "I can speak, I'm a chatbot, and I'm responding to you right now."
+    },
+    {
+        "role": "user",
+        "content": "Switch off is what time is it?\""
+    },
+    {
+        "role": "assistant",
+        "content": "It's 2 hours, 41 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Which fast?\""
+    },
+    {
+        "role": "assistant",
+        "content": "Minutes are not specified, so I'll say it's 2 hours and 4 seconds."
+    },
+    {
+        "role": "user",
+        "content": "What time is it?\""
+    },
+    {
+        "role": "assistant",
+        "content": "2 hours and 47 seconds, but the minutes are missing."
+    },
+    {
+        "role": "user",
+        "content": "And just the time they may just send rating right application of the sick leave.\""
+    },
+    {
+        "role": "assistant",
+        "content": "2 hours, some minutes, and 56 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Why are you not working properly?\""
+    },
+    {
+        "role": "assistant",
+        "content": "I'm working as intended, but I was given incomplete time information, which is 2 hours and 27 seconds, with minutes missing."
+    },
+    {
+        "role": "user",
+        "content": "Pune stars image where is it?\""
+    },
+    {
+        "role": "assistant",
+        "content": "The image of Pune is not available in this conversation."
+    },
+    {
+        "role": "user",
+        "content": "Image of tony stark.\""
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Tony Stark, also known as Iron Man, a character from the Marvel Cinematic Universe."
+    },
+    {
+        "role": "user",
+        "content": "That particular person.\""
+    },
+    {
+        "role": "assistant",
+        "content": "Robert Downey Jr."
+    },
+    {
+        "role": "user",
+        "content": "Kam to kar gaya.\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're saying something is done, but I'd like to know more context about what is completed."
+    },
+    {
+        "role": "user",
+        "content": "Saiyara bajana youtube se dobara.\""
+    },
+    {
+        "role": "assistant",
+        "content": "You can find Saiyara songs on YouTube and play them again."
+    },
+    {
+        "role": "user",
+        "content": "\u091c\u0932\u094d\u0926\u0940-\u091c\u0932\u094d\u0926\u0940.\""
+    },
+    {
+        "role": "assistant",
+        "content": "Hurry up."
+    },
+    {
+        "role": "user",
+        "content": "Thinking capacities low.\""
+    },
+    {
+        "role": "assistant",
+        "content": "You're feeling mentally fatigued or struggling to focus."
+    },
+    {
+        "role": "user",
+        "content": "Tell me what is the configuration?\""
+    },
+    {
+        "role": "assistant",
+        "content": "The configuration is not specified, could you provide more context or details about what you're referring to?"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?\""
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, an advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "What time is it?\""
+    },
+    {
+        "role": "assistant",
+        "content": "10:59 PM."
+    }
+]

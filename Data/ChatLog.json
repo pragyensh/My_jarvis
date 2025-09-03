@@ -134,5 +134,29 @@
     {
         "role": "assistant",
         "content": "10:59 PM."
+    },
+    {
+        "role": "user",
+        "content": "What time is it?\""
+    },
+    {
+        "role": "assistant",
+        "content": "It was initially given as 12 hours, some minutes, and 28 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Tell me how are you?\""
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly."
+    },
+    {
+        "role": "user",
+        "content": "Are you generating the image.\""
+    },
+    {
+        "role": "assistant",
+        "content": "No, I'm a text-based AI, I don't generate images."
     }
 ]
